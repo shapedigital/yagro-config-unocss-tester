@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@iconify-json/fa6-solid": "^1.1.21",
     "@yagro/config-unocss": "^0.0.5",
     "typescript": "^5.2.2",
     "unocss": "^0.61.0",
